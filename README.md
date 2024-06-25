@@ -10,9 +10,11 @@ Results
 
 Licensing, Authors, and Acknowledgements
 
+
 Installation
 
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*.
+
 
 Project Motivation
 
@@ -24,9 +26,11 @@ What factors contribute to high review scores?
 
 What factors contribute to high rental prices?
 
+
 File Descriptions
 
 There is one notebook available here to showcase work related to the above questions. Markdown cells were used to assist in walking through the thought process for individual steps.
+
 
 Results
 
